@@ -88,7 +88,7 @@
                                 <echo message="moving resources"/>
                                 <move todir="${destDir}">
                                     <fileset dir="${project.build.directory}/prism-${upstream.zipFileName}"
-                                             excludes="*" includes="themes/ components/"/>
+                                             excludes="*" includes="themes/ components/ plugins/"/>
                                 </move>
                             </target>
                         </configuration>
