@@ -1,4 +1,4 @@
-# WebJar for PrismJS
+WebJar for PrismJS
 
 More info: http://webjars.org
 
