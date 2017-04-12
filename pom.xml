@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>prismjs</artifactId>
-    <version>1.6.0-SNAPSHOT</version>
+    <version>1.6.0</version>
     <name>PrismJS</name>
     <description>Webjar for PrismJS</description>
     <url>http://webjars.org</url>
